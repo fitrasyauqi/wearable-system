@@ -5,3 +5,5 @@
 </div>
 
 Developed a wearable posture detection system for lateral raise exercises as part of a final thesis project at Universitas Brawijaya. The system uses MPU6050 sensors (accelerometer and gyroscope) placed on the chest, upper arm, and wrist to capture body movement data. An ESP32 microcontroller processes the sensor input and classifies the movement using a Random Forest algorithm. The system provides real-time auditory feedback via a buzzer, helping users correct their form and reduce injury risk during deltoid training. The model achieved a classification accuracy of 95.8%, and the overall system accuracy reached 87.5% with an average computation time of 453.08 microseconds.
+
+## [Presentation Link](https://www.canva.com/design/DAGQpp5vNEk/Sjn8-os7fK1leTiWQn4t2Q/view?utm_content=DAGQpp5vNEk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h708194986c)
